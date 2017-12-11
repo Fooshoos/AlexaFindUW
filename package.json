@@ -1,0 +1,16 @@
+{
+  "name": "thursday",
+  "version": "1.0.0",
+  "description": "scraping prototype",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cheerio": "*",
+    "express": "*",
+    "request": "*"
+  },
+  "author": "fooshoos",
+  "license": "ISC"
+}
